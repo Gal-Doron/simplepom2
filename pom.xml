@@ -16,7 +16,17 @@
 			<artifactId>guava</artifactId>
 			<version>25.1-jre</version>
 		</dependency>
-
+		<dependency>
+		    <groupId>com.opdar.gulosity</groupId>
+		    <artifactId>parse</artifactId>
+		    <version>0.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>org.springframework</groupId>
+		    <artifactId>spring-beans</artifactId>
+		    <version>4.3.3.RELEASE</version>
+		    <scope>provided</scope>
+		</dependency>
         
       
 		
